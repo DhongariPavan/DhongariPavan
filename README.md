@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DhongariPavan
-- 👀 I’m interested in Data Science,Python,Pandas,Cobol,Mainframe,ML,DL
+- 👀 I’m interested in Data Science,Python,Pandas,ML,DL
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...Data Science related projects
 - 📫 How to reach me ...pavanvds.137@gmail.com
